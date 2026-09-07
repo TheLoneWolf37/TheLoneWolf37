@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**TheLoneWolf37/TheLoneWolf37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Currently learning C programming
+🌱 Exploring software development and cybersecurity
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- Git & GitHub
+- Computer Science fundamentals
+- Algorithms
+- Problem solving
+
+## Goals
+
+- Build strong programming fundamentals
+- Complete CS50x
+- Build real-world projects
+- Contribute to open-source projects
